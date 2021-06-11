@@ -1,4 +1,4 @@
-import { PeriodicElement } from './../../views/home/home.component';
+import { PeriodicElement } from '../../models/PeriodicElements';
 import { Component, Inject, OnInit } from '@angular/core';
 import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
 
